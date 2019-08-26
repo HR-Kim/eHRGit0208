@@ -8,6 +8,6 @@ public class Hello127 {
 		System.out.println("유하언니가... 바보라고 했다... ");
 		System.out.println("바아보~~~~~~~~");
 		System.out.println("악");    
-	}
+	}  
 
 }
