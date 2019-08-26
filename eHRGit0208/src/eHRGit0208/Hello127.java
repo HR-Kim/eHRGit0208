@@ -7,7 +7,7 @@ public class Hello127 {
 		System.out.println("오늘의 일기");
 		System.out.println("유하언니가... 바보라고 했다... ");
 		System.out.println("바아보~~~~~~~~");
-		System.out.println("악");
+		System.out.println("악");  
 	}
 
 }
