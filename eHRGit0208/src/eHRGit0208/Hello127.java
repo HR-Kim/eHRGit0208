@@ -9,6 +9,7 @@ public class Hello127 {
 		System.out.println("바보에게 바보가...");
 		
 		System.out.println("ㅇㅅㅇ");
+		System.out.println("ㅇㅅㅇ..");
 	}
 
 }
