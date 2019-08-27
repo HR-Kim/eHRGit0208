@@ -12,6 +12,8 @@ public class Hello127 {
 		System.out.println("§∑§µ§∑..");
 
 		System.out.println("±Ú±Ú");
+		
+		System.out.println("¿Ã¡¶µ»¥Á");
 	}
 
 }
