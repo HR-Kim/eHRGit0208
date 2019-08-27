@@ -10,6 +10,8 @@ public class Hello127 {
 		
 		System.out.println("しさし");
 		System.out.println("しさし..");
+
+		System.out.println("薗薗");
 	}
 
 }
